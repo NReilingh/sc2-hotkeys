@@ -93,15 +93,15 @@ CameraSave3=Option+U
 CameraSave4=Option+P
 CameraSave5=Option+O
 CameraSave6=Option+I
-CameraSave7=Control+0
+CameraSave7=Control+9
 CameraView0=0
 CameraView1=9
 CameraView2=8
 CameraView3=U
-CameraView4=Shift+9
-CameraView5=Shift+8
-CameraView6=Shift+U
-CameraView7=Control+9
+CameraView4=Shift+0
+CameraView5=Shift+9
+CameraView6=Shift+8
+CameraView7=Control+0
 
 [Commands]
 250mmStrikeCannons/Thor=Minus
